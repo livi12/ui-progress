@@ -27,6 +27,6 @@ legend{margin-left:20px; color:#777; font-size:14px; font-weight:bold;}
 li img{vertical-align:middle;}
 input[type="reset"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, input[type="submit"]::-moz-focus-inner, input[type="file"] > input[type="button"]::-moz-focus-inner{border:none;padding:0;}
 
-
+.progress-wrap li{margin-bottom:10px;}
 .progress-wrap .progress-bar{background-color: #f1f1f1;position:relative;margin: 0 10px;height:20px;border-radius:3px;overflow:hidden;width: 270px;display: inline-block;vertical-align: middle;}
 .progress-wrap .progress-bar .bar{position: absolute;background-color:#1fb5ab;height:100%;border-radius:3px;}
